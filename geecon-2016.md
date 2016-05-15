@@ -14,6 +14,6 @@
 * Aeron [link1](https://github.com/real-logic/Aeron)
 * Track JIT compilation with `-XX:+PrintCompilation` [link1](http://www.slideshare.net/KubaKubryski/jvm-dive-for-mere-mortals)
 * Memory layout behind `-Xmx` [link1](http://www.slideshare.net/KubaKubryski/jvm-dive-for-mere-mortals)
-* How to hack parallel stream to use different dispatcher [link1](http://www.slideshare.net/KubaKubryski/jvm-dive-for-mere-mortals)
+* How to hack parallel stream to use different dispatcher [link1](http://www.slideshare.net/KubaKubryski/jvm-dive-for-mere-mortals) [link2](http://blog.krecan.net/2014/03/18/how-to-specify-thread-pool-for-java-8-parallel-streams/)
 * Reduced stacktrace impact on exceptions performance [link1](http://www.slideshare.net/KubaKubryski/jvm-dive-for-mere-mortals)
 
